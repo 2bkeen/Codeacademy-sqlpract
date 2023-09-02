@@ -1,2 +1,2 @@
-# Codeacademy-sqlpract
+# Codeacademy-sql-lab
 SQL practice
